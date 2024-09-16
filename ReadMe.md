@@ -10,7 +10,7 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://AbubakarRasheed.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://abubakarrsheed.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -125,13 +125,13 @@ To run **Personal Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/AbubakarRasheed/portfolio-website.git
+sudo git clone https://github.com/AbubakarRsheed/Portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/AbubakarRasheed/portfolio-website.git
+git clone https://github.com/AbubakarRsheed/Portfolio.git
 ```
 
 ### Contact
